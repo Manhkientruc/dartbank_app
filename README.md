@@ -8,13 +8,8 @@ This project is designed for learning and demonstration purposes.
 ---
 # Images
 
-<<<<<<< HEAD
-
-# Features
-
-=======
-### Login
-![Login](images/Screenshot_20260314-092446.jpg)
+<h3>Login</h3>
+<img src="images/Screenshot_20260314-092446.jpg" width="300">
 
 ### Home
 ![Home](images/Screenshot_20260314-092455.jpg)
@@ -33,7 +28,6 @@ This project is designed for learning and demonstration purposes.
 
 # Features
 
->>>>>>> 0207857 (3rd commit)
 ### Authentication
 
 * User registration
