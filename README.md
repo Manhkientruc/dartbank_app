@@ -10,21 +10,16 @@ This project is designed for learning and demonstration purposes.
 
 <h3>Login</h3>
 <img src="images/Screenshot_20260314-092446.jpg" width="300">
-
-### Home
-![Home](images/Screenshot_20260314-092455.jpg)
-
-### Transfer
-![Transfer](images/Screenshot_20260314-092459.jpg)
-
-### QR Scan
-![QR Scan](images/Screenshot_20260314-092519.jpg)
-
-### QR code
-![QR Code](images/Screenshot_20260314-092503.jpg)
-
-### History
-![History](images/Screenshot_20260314-092704.jpg)
+<h3>Home</h3>
+<img src="images/Screenshot_20260314-092459.jpg" width="300">
+<h3>Transfer</h3>
+<img src="images/Screenshot_20260314-092459.jpg" width="300">
+<h3>QR Scan</h3>
+<img src="images/Screenshot_20260314-092519.jpg" width="300">
+<h3>QR code</h3>
+<img src="images/Screenshot_20260314-092503.jpg" width="300">
+<h3>History</h3>
+<img src="images/Screenshot_20260314-092704.jpg" width="300">
 
 # Features
 
