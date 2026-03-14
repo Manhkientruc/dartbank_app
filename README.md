@@ -8,9 +8,32 @@ This project is designed for learning and demonstration purposes.
 ---
 # Images
 
+<<<<<<< HEAD
 
 # Features
 
+=======
+### Login
+![Login](images/Screenshot_20260314-092446.jpg)
+
+### Home
+![Home](images/Screenshot_20260314-092455.jpg)
+
+### Transfer
+![Transfer](images/Screenshot_20260314-092459.jpg)
+
+### QR Scan
+![QR Scan](images/Screenshot_20260314-092519.jpg)
+
+### QR code
+![QR Code](images/Screenshot_20260314-092503.jpg)
+
+### History
+![History](images/Screenshot_20260314-092704.jpg)
+
+# Features
+
+>>>>>>> 0207857 (3rd commit)
 ### Authentication
 
 * User registration
